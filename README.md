@@ -20,7 +20,7 @@ Sipros is a database-searching algorithm for peptide and protein identification 
 
 ## Installation
 
-### Window
+### Windows
 
 Double click
 
